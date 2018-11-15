@@ -5,7 +5,7 @@ This demo is a demonstration for a real time chatting application presented to G
 # How to set it up!
 
   - You need to install [Node.js](https://nodejs.org/)  on your system 
-  - also you need to install [MangoDB.js](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/)
+  - also you need to install [MangoDB](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/)
   
 
 
@@ -16,11 +16,11 @@ To run the demo:
     ```sh
     mongod
     ```
-    and in a new cmd window
+    and in a new command window
     ```sh
     mongo
     ```
-    if mongo is running successfully then open new cmd window and cd to nodejs chat
+    if mongo is running successfully then open new command window and cd to nodejs chat directory
     ```sh
     cd nodejs chat
     node server.js
